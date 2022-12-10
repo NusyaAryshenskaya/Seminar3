@@ -107,3 +107,5 @@
 
         git log --all --oneline --graph
 
+### Слияние веток
+
